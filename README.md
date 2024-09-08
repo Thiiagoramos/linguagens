@@ -17,6 +17,6 @@ Este projeto é um web app simples que permite aos usuários pesquisarem por div
 **logica.js:** Arquivo JavaScript contendo a lógica da aplicação, como a função de pesquisa.
 
 **Como Utilizar?**
-*1.**Clone o repositório:** Faça um clone desse repositório no seu computador.
-*2.**Abra o arquivo index.html:** Abra o arquivo index.html no seu navegador de escolha.
-*3.**Comece a pesquisar:** Digite o nome da linguagem e espere o resultado.
+* **Clone o repositório:** Faça um clone desse repositório no seu computador.
+* **Abra o arquivo index.html:** Abra o arquivo index.html no seu navegador de escolha.
+* **Comece a pesquisar:** Digite o nome da linguagem e espere o resultado.
