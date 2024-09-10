@@ -36,5 +36,51 @@ let dados = [
       Criação: "1991",
       Criador: "Guido van Rossum",
       Uso: "Análise de dados, machine learning (TensorFlow, PyTorch), desenvolvimento web (Django, Flask), automação (Selenium), scripting de sistemas."
+    },
+    {
+      Nome: "Java",
+      Imagem: "midia/java.svg",
+      Link: "https://www.oracle.com/java/",
+      Descrição: "Linguagem de programação orientada a objetos, robusta e de propósito geral. Amplamente utilizada em desenvolvimento de aplicações empresariais, Android, big data e muito mais. Conhecida por sua portabilidade e segurança.",
+      Paradigmas: ["orientada a objetos"],
+      Criação: "1995",
+      Criador: "James Gosling",
+      Uso: "Desenvolvimento de aplicações empresariais, desenvolvimento Android, big data, jogos (Minecraft), sistemas embarcados."
+    },
+    {
+      Nome: "C#",
+      Imagem: "midia/csharp.png",
+      Link: "https://docs.microsoft.com/en-us/dotnet/csharp/",
+      Descrição: "Linguagem de programação orientada a objetos desenvolvida pela Microsoft. Utilizada principalmente para desenvolvimento de aplicações .NET, jogos (Unity) e desenvolvimento web. Integra-se perfeitamente com o ecossistema .NET.",
+      Paradigmas: ["orientada a objetos"],
+      Criação: "2000",
+      Uso: "Desenvolvimento de aplicações .NET, jogos (Unity), desenvolvimento web (ASP.NET)."
+    },
+    {
+      Nome: "C++",
+      Imagem: "midia/c++.svg",
+      Link: "https://isocpp.org/",
+      Descrição: "Linguagem de programação de propósito geral, orientada a objetos, que oferece alto desempenho e controle de baixo nível. Utilizada em desenvolvimento de sistemas, jogos, aplicativos científicos e muito mais. É uma extensão da linguagem C.",
+      Paradigmas: ["orientada a objetos", "imperativa"],
+      Criação: "1983",
+      Uso: "Desenvolvimento de sistemas operacionais, desenvolvimento de jogos, aplicativos científicos, desenvolvimento de drivers."
+    },
+    {
+      Nome: "PHP",
+      Imagem: "midia/php.svg",
+      Link: "https://www.php.net/",
+      Descrição: "Linguagem de script de propósito geral, especialmente adequada para desenvolvimento web. É amplamente utilizada para criar sites dinâmicos e aplicativos web. Integra-se facilmente com bancos de dados como MySQL.",
+      Paradigmas: ["imperativa", "orientada a objetos"],
+      Criação: "1994",
+      Uso: "Desenvolvimento web (WordPress, Laravel), back-end."
+    },
+    {
+      Nome: "C",
+      Imagem: "midia/c.webp",
+      Link: "https://en.wikipedia.org/wiki/C_(programming_language)",
+      Descrição: "Linguagem de programação procedural de baixo nível, muito eficiente e utilizada em diversas áreas, como desenvolvimento de sistemas, desenvolvimento de jogos, firmware e muito mais. É a base para muitas outras linguagens de programação.",
+      Paradigmas: ["imperativa"],
+      Criação: "1972",
+      Uso: "Desenvolvimento de sistemas operacionais, desenvolvimento de jogos, firmware, desenvolvimento de drivers."
     }
   ];
