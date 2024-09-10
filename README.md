@@ -11,10 +11,10 @@ Este projeto é um web app simples que permite aos usuários pesquisarem por div
 * **JavaScript:** Lógica da aplicação, incluindo a pesquisa e a renderização dos resultados.
 
 **Estrutura do projeto**
-**index.html:** Arquivo principal da aplicação, responsável pela estrutura HTML.
-**style.css:** Arquivo CSS responsável pela estilização da aplicação.
-**dados.js:** Arquivo JavaScript contendo os dados das linguagens de programação.
-**logica.js:** Arquivo JavaScript contendo a lógica da aplicação, como a função de pesquisa.
+* **index.html:** Arquivo principal da aplicação, responsável pela estrutura HTML.
+* **style.css:** Arquivo CSS responsável pela estilização da aplicação.
+* **dados.js:** Arquivo JavaScript contendo os dados das linguagens de programação.
+* **logica.js:** Arquivo JavaScript contendo a lógica da aplicação, como a função de pesquisa.
 
 **Como Utilizar?**
 * **Clone o repositório:** Faça um clone desse repositório no seu computador.
